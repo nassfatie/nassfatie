@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nassfatie
+- 👋 Hi, I’m Nassali Fatumah
 - 👀 I’m interested in being a full stack developer
 - 🌱 I’m currently learning software Engineering 
 - 💞️ I’m looking to collaborate with other software engineers 
